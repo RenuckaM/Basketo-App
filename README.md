@@ -53,4 +53,6 @@ The project leverages SwiftUI's declarative programming paradigm, adhering to th
 - **View:** SwiftUI views render the game's interface, including the basketball court and score tracker.  
 - **ViewModel:** Connects the model and view, handling game states, player input, and score updates.
 
-## DM ME for full code: mrenucka@gmail.com
+## Contact
+
+For the full code or inquiries, feel free to DM me at mrenucka@gmail.com.

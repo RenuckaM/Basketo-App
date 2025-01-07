@@ -1,13 +1,10 @@
-<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI logo" height="70">
+<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI logo" height="70"> <img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
 
 # **BASKETO - Basketball Game (SwiftUI)**
 
 A fun and addictive basketball game built using SwiftUI. This project showcases engaging swipe-based gameplay with dynamic ball physics, a responsive UI, and exciting animations to provide a rich gaming experience.
 
-## **Screenshots**
-
-*(Add screenshots of the app here, showcasing gameplay, leaderboards, and effects.)*
-
+![image](https://github.com/user-attachments/assets/b4994529-fd64-4f09-8480-07b5106b99c5)
 
 ## **Features**
 
